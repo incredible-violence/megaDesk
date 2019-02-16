@@ -1,0 +1,13 @@
+C:\Users\Brad\source\repos\MegaDesk-3-BradKellogg\MegaDesk-3-BradKellogg\bin\Debug\MegaDesk-3-BradKellogg.exe.config
+C:\Users\Brad\source\repos\MegaDesk-3-BradKellogg\MegaDesk-3-BradKellogg\bin\Debug\MegaDesk-3-BradKellogg.exe
+C:\Users\Brad\source\repos\MegaDesk-3-BradKellogg\MegaDesk-3-BradKellogg\bin\Debug\MegaDesk-3-BradKellogg.pdb
+C:\Users\Brad\source\repos\MegaDesk-3-BradKellogg\MegaDesk-3-BradKellogg\obj\Debug\MegaDesk-3-BradKellogg.csprojAssemblyReference.cache
+C:\Users\Brad\source\repos\MegaDesk-3-BradKellogg\MegaDesk-3-BradKellogg\obj\Debug\MegaDesk_3_BradKellogg.AddQuote.resources
+C:\Users\Brad\source\repos\MegaDesk-3-BradKellogg\MegaDesk-3-BradKellogg\obj\Debug\MegaDesk_3_BradKellogg.MainMenu.resources
+C:\Users\Brad\source\repos\MegaDesk-3-BradKellogg\MegaDesk-3-BradKellogg\obj\Debug\MegaDesk_3_BradKellogg.Properties.Resources.resources
+C:\Users\Brad\source\repos\MegaDesk-3-BradKellogg\MegaDesk-3-BradKellogg\obj\Debug\MegaDesk-3-BradKellogg.csproj.GenerateResource.cache
+C:\Users\Brad\source\repos\MegaDesk-3-BradKellogg\MegaDesk-3-BradKellogg\obj\Debug\MegaDesk-3-BradKellogg.csproj.CoreCompileInputs.cache
+C:\Users\Brad\source\repos\MegaDesk-3-BradKellogg\MegaDesk-3-BradKellogg\obj\Debug\MegaDesk-3-BradKellogg.exe
+C:\Users\Brad\source\repos\MegaDesk-3-BradKellogg\MegaDesk-3-BradKellogg\obj\Debug\MegaDesk-3-BradKellogg.pdb
+C:\Users\Brad\source\repos\MegaDesk-3-BradKellogg\MegaDesk-3-BradKellogg\obj\Debug\MegaDesk_3_BradKellogg.ViewAllQuotes.resources
+C:\Users\Brad\source\repos\MegaDesk-3-BradKellogg\MegaDesk-3-BradKellogg\obj\Debug\MegaDesk_3_BradKellogg.SearchQuotes.resources
